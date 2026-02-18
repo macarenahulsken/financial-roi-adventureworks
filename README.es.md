@@ -2,6 +2,8 @@
 
 ## Análisis Financiero y ROI — AdventureWorks
 
+####[English version](README.en.md)
+
 ### Problema de negocio
 La empresa necesita comprender qué mercados internacionales generan rentabilidad real considerando la inversión en marketing.
 
