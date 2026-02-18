@@ -1,0 +1,16 @@
+,,,,,,,,,,
+,Pais,ClaveTerritorio,ingresos,costos,CostoCampanas,BeneficioBruto,Margen_pct,ROI_pct,,INSIGHT C F I
+,United States,1,"$3,353,939.92","$1,899,471.33","$1,920,000.00","$1,454,468.60",43.37%,75.75%,,Contexto:
+,Australia,9,"$2,532,003.49","$1,474,958.18","$2,150,400.00","$1,057,045.31",41.75%,49.16%,,Se analizan los datos para AdventureWorks buscando los mercados con mas ingresos y rentabilidad con el objetivo de decidir donde invertir
+,United Kingdom,10,"$1,189,636.78","$681,508.55","$2,304,000.00","$508,128.24",42.71%,22.05%,,
+,Germany,8,"$1,071,460.42","$611,295.36","$2,265,600.00","$460,165.06",42.95%,20.31%,,Hallazgos
+,France,7,"$924,316.93","$527,797.14","$2,208,000.00","$396,519.79",42.9%,17.96%,,"1) Se encuentra a United States con un ROI altamente superior (75.75%)  al de France y Canada (17.96%, 17,43%) respectivamnte."
+,Canada,6,"$710,205.18","$392,325.91","$1,824,000.00","$317,879.27",44.76%,17.43%,,
+,,,,,,,,,,2) Los costos de las Campañas de France y de Canada son altos comparado con los ingresos lo cual genera un ROI bajo.
+,¿Cuál es la diferencia entre Margen y ROI?,,,,,,,,,
+,"1)El ROI calculado aquí, mide la rentabilidad de la inversión en campañas, mientras que el margen se centra en la rentabilidad de los productos a partir de sus costos directos.",,,,,,,,,"3) El ROI no contempla la totalidad de los costos del negocio, por lo que un ROI positivo no implica necesariamente rentabilidad neta"
+,¿Por qué el ROI en Estados Unidos es tan alto comparado con otros países?,,,,,,,,,
+,"1) Estados Unidos presenta un ROI más alto debido a que, en relación con el costo de campañas, genera un beneficio bruto significativamente mayor que el resto de los países.",,,,,,,,,Implicación
+,"Si aumentáramos el gasto de campañas en un 50%, ¿qué pasaría con el ROI?",,,,,,,,,"1) Evaluar una reducción gradual del gasto en campañas en UK, Germany, France y Canada, comenzando por los mercados con menor ROI, y monitorear su impacto en ingresos y rentabilidad"
+,"1) Si el gasto en campañas aumenta un 50% y los ingresos se mantienen constantes, el ROI disminuiría ya que el costo de la inversión crecería sin un aumento del beneficio.",,,,,,,,,
+,,,,,,,,,,"2)  El ROI utilizado mide únicamente la eficiencia del gasto en campañas y puede sobreestimar la rentabilidad real por país. Para futuras decisiones estratégicas, se recomienda complementar este análisis con una métrica que incorpore los costos totales del negocio."
